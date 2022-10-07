@@ -1,4 +1,4 @@
-# ArduinoAnalogReadExample
+# Arduino Analog Read Example
 
 
 This code is simulated in the tinkerCAD, an Explanation video is avilable in YouTube.
